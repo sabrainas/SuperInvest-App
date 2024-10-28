@@ -13,7 +13,9 @@
 3. **Botão de Calcular**: Um botão que, quando pressionado, está programado para calcular, mas atualmente não possui funcionalidade implementada.
 
 ![Demonstração SuperInvest]
-<img src="app/src/main/res/drawable/print_superinvest.png" alt="demonstração app" width="300" height="200">
+
+
+<img src="app/src/main/res/drawable/print_superinvest.png" alt="demonstração app" width="200" height="400">
 
 
 ## 📋 Funcionalidades
