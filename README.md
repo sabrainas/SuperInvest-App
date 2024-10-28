@@ -12,7 +12,7 @@
    - Taxa de Juros (em %)
 3. **Botão de Calcular**: Um botão que, quando pressionado, está programado para calcular, mas atualmente não possui funcionalidade implementada.
 
-![Demonstração SuperInvest]([https://link-para-a-imagem.com/imagem.png](https://imgur.com/a/tlnkzjM))
+![Demonstração SuperInvest](https://imgur.com/a/tlnkzjM))
 
 
 ## 📋 Funcionalidades
